@@ -5,6 +5,9 @@ Welcome to **Digital Clock** — a live clock demo with time-based backgrounds.
 ## 🚀 Project Overview
 This project displays the current local time, updates every second, and changes the background image according to the time of day (morning, evening, night).
 
+## 🌐 Live Demo
+[View Demo](https://issamsensi.github.io/digital-clock/)
+
 ## 🌟 Features
 - Live HH:MM:SS clock
 - Background changes based on current hour (morning/evening/night)
